@@ -1,4 +1,4 @@
-//? ik there is a better way to this but dont judge me 😏 i like to do work that i dont have to
+//? easy as that! 😏
 
 "use strict";
 !(function () {
