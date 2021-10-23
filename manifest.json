@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "YouTube Hotkeys",
+  "description": "Adds more hotkeys to YouTube",
+  "version": "0.0.1",
+
+  "content_scripts": [
+    {
+      "matches": ["https://*.youtube.com/*"],
+      "js": ["main.js"]
+    }
+  ],
+
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "YT Hotkeys"
+  }
+}
