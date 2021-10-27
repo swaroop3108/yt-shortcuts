@@ -6,7 +6,7 @@ Download the zip file, then extract it.
 >   ![downlaod_instructions](https://truly-not-a.questionable.link/5dyoQ3g74.png)
 > - Open Chrome! And paste the following address in the URL box: `chrome://extensions/` <br>
 > - Enable Developer Mode in the extentions page: <br> ![dev_mode](https://truly-not-a.questionable.link/5dyqd7nA7.png)
-> - Then load pack: <br> ![enable_dev_mode](https://truly-not-a.questionable.link/5dyqIgXbQ.png)
+> - Then load unpacked: <br> ![enable_dev_mode](https://truly-not-a.questionable.link/5dyqIgXbQ.png)
 > - After that, choose the location of the extracted folder: <br> ![location_path](https://truly-not-a.questionable.link/5dyrgGU3C.png)
 > - Click on `Select Folder` and thats it! <br> ![select_folder](https://truly-not-a.questionable.link/5dyrrkRHM.png)
 >   And thats all. Make sure that the extension is enabled: <br> ![enable_extension](https://truly-not-a.questionable.link/5dyrH2wTL.png)
